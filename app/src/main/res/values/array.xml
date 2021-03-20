@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="sample_images_cat">
+        <item>@drawable/img_cat_1</item>
+        <item>@drawable/img_cat_2</item>
+        <item>@drawable/img_cat_3</item>
+        <item>@drawable/img_cat_4</item>
+        <item>@drawable/img_cat_5</item>
+    </integer-array>
+
+    <integer-array name="sample_images_tiger">
+        <item>@drawable/img_tiger_1</item>
+        <item>@drawable/img_tiger_2</item>
+        <item>@drawable/img_tiger_3</item>
+        <item>@drawable/img_tiger_4</item>
+        <item>@drawable/img_tiger_5</item>
+    </integer-array>
+
+    <integer-array name="sample_images_bear">
+        <item>@drawable/img_bear_1</item>
+        <item>@drawable/img_bear_2</item>
+        <item>@drawable/img_bear_3</item>
+    </integer-array>
+
+    <integer-array name="sample_images_eagle">
+        <item>@drawable/img_eagle_1</item>
+        <item>@drawable/img_eagle_2</item>
+        <item>@drawable/img_eagle_3</item>
+    </integer-array>
+
+</resources>
